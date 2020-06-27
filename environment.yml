@@ -244,6 +244,10 @@ dependencies:
   - widgetsnbextension=3.5.1
   - zeromq=4.3.2
   - zipp=3.1.0
+  - blas=2.16
+  - liblapacke=3.8.0
+  - numpy=1.18.5
+  - numpy-base=1.18.5
   - pip:
     - cython==0.29.15
     - ipython-sql==0.3.9
