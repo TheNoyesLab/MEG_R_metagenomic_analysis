@@ -248,6 +248,27 @@ dependencies:
   - liblapacke=3.8.0
   - numpy=1.18.5
   - numpy-base=1.18.5
+  - cycler=0.10.0
+  - dbus=1.13.6
+  - expat=2.2.9
+  - Gst-plugins-base=1.14.5
+  - gstreamer=1.14.5
+  - kiwisolver=1.2.0
+  - libclang=9.0.1
+  - libllvm9=9.0.1
+  - libxkbcommon=0.10.0
+  - Matplotlib-base=3.2.2
+  - matplotlib=3.2.2
+  - nspr=4.26
+  - nss=3.47
+  - pyqt=5.12.3
+  - qt=5.12.5
+  - six=1.15.0
+  - tornado=6.0.4
+  - ca-certificates-2020.1.1
+  - certifi-2020.6.20
+  - openssl-1.1.1g
+  - pip-20.1.1
   - pip:
     - cython==0.29.15
     - ipython-sql==0.3.9
