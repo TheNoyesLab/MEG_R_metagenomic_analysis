@@ -179,6 +179,7 @@ dependencies:
 - r-yaml=2.2.0
 - r-zoo=1.8_6
 - rpy2=3.3.2
+- pandas=1.0.5
 - bioconductor-biobase=2.46.0=r36h516909a_0
 - bioconductor-biocgenerics=0.32.0=r36_0
 - bioconductor-biomformat=1.14.0=r36_0
