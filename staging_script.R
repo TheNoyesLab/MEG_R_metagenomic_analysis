@@ -95,4 +95,4 @@ source('scripts/metagenomeSeq_megares_qiime.R')
 # Melted counts are contained in these data.table objects "amr_melted_analytic" "microbiome_melted_analytic"
 
 ## Run code to make some exploratory figures, zero inflated gaussian model, and output count matrices.
-suppressMessages(source('scripts/print_figures.R'))
+#suppressMessages(source('scripts/print_figures.R'))
