@@ -13,3 +13,5 @@ https://plotly.com/python/histograms/
 https://plotly.com/python/box-plots/
 
 https://sites.google.com/site/ownscratchpad/datascience/plotly-and-cufflinks
+
+https://hub.gke.mybinder.org/user/cfmtech-jupytext_papermill_post-82up0x18/notebooks/README.md
