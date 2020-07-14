@@ -1,7 +1,12 @@
 # MEG_R_metagenomic_analysis
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TheNoyesLab/NoyesLab_R_analysis_Jupyter_notebook.git/master?urlpath=https%3A%2F%2Fgithub.com%2FTheNoyesLab%2FNoyesLab_R_analysis_Jupyter_notebook%2Fblob%2Fmaster%2Fmetagenomic_analysis_info_entry.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TheNoyesLab/NoyesLab_R_analysis_Jupyter_notebook.git/master)
 
+https://hub.gke.mybinder.org/user/thenoyeslab-noy-upyter_notebook-kep8vcjy/nteract/tree
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke.mybinder.org/user/thenoyeslab-noy-upyter_notebook-kep8vcjy/notebooks/metagenomic_analysis_info_entry.ipynb)
+
+https://mybinder.org/v2/gh/TheNoyesLab/NoyesLab_R_analysis_Jupyter_notebook/8b0548475235c5dca4a367d30480a83cbb5bc4dd?filepath=metagenomic_analysis_info_entry.ipynb
 
 Websites for more ideas:
 https://towardsdatascience.com/interactive-controls-for-jupyter-notebooks-f5c94829aee6
