@@ -1,6 +1,6 @@
 # MEG_R_metagenomic_analysis
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/binder/v2/gh/TheNoyesLab/NoyesLab_R_analysis_Jupyter_notebook/a961e65bbb46e0d1634fea64fd91025b3f4ac19b)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TheNoyesLab/NoyesLab_R_analysis_Jupyter_notebook.git/master?urlpath=https%3A%2F%2Fgithub.com%2FTheNoyesLab%2FNoyesLab_R_analysis_Jupyter_notebook%2Fblob%2Fmaster%2Fmetagenomic_analysis_info_entry.ipynb)
 
 
 Websites for more ideas:
