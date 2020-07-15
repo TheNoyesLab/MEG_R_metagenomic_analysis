@@ -2,8 +2,6 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TheNoyesLab/NoyesLab_R_analysis_Jupyter_notebook.git/master)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke.mybinder.org/user/thenoyeslab-noy-upyter_notebook-kep8vcjy/notebooks/metagenomic_analysis_info_entry.ipynb)
-
 Websites for more ideas:
 https://towardsdatascience.com/interactive-controls-for-jupyter-notebooks-f5c94829aee6
 
