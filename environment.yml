@@ -178,6 +178,7 @@ dependencies:
 - r-xts=0.11_2
 - r-yaml=2.2.0
 - r-zoo=1.8_6
+- libopenblas
 - rpy2=3.3.2
 - pandas=1.0.5
 - cufflinks-py=0.17.3
