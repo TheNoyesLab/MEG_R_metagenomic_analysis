@@ -185,7 +185,7 @@ dependencies:
 - bioconductor-biocgenerics=0.30.0=r36_1
 - bioconductor-biomformat=1.14.0=r36_0
 - bioconductor-biostrings=2.54.0=r36h516909a_0
-- bioconductor-ihw=1.14.0=r36_0
+- bioconductor-ihw=1.12.0=r36_1
 - bioconductor-iranges=2.20.0=r36h516909a_0
 - bioconductor-lpsymphony=1.14.0=r36he1b5a44_0
 - bioconductor-metagenomeseq=1.26.2=r36_0
