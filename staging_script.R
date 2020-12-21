@@ -96,3 +96,9 @@ source('scripts/metagenomeSeq_megares_qiime.R')
 
 ## Run code to make some exploratory figures, zero inflated gaussian model, and output count matrices.
 #suppressMessages(source('scripts/print_figures.R'))
+
+####### Now to save the workspace into an .RData file
+save.image(file = "GUI_Workspace.RData")
+
+
+
