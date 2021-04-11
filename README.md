@@ -1,7 +1,7 @@
 # MEG_R_metagenomic_analysis
+This README file is meant to help guide your use of this Jupyter Notebook. It's not an extensive documentation, but more like an instruction manual. Consider this a living document for the time being as people begin to use and test this Binder. I hope to constantly update this with more helpful tips on how to use it, as well as common troubleshooting steps for when things break. 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TheNoyesLab/NoyesLab_R_analysis_Jupyter_notebook/HEAD)
-
+Feel free to email me at gupta305@umn.edu if you run into errors or issues with this, and I will do my best to help out. 
 
 # Opening the Notebook
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TheNoyesLab/NoyesLab_R_analysis_Jupyter_notebook/HEAD)
