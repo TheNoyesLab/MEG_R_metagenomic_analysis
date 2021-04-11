@@ -28,6 +28,7 @@ Feel free to email me at gupta305@umn.edu if you run into errors or issues with 
 
 # Opening the Notebook
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TheNoyesLab/NoyesLab_R_analysis_Jupyter_notebook/HEAD)
+
 The button above will take you directly to the Binder page where this notebook is hosted. Upon clicking the link, you will see the following page: 
 
 <img width="550" alt="image" src="https://user-images.githubusercontent.com/61216360/114312186-650d5f80-9ab7-11eb-92a9-239b0c20db76.png">
