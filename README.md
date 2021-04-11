@@ -3,6 +3,29 @@ This README file is meant to help guide your use of this Jupyter Notebook. It's 
 
 Feel free to email me at gupta305@umn.edu if you run into errors or issues with this, and I will do my best to help out. 
 
+# Table of Contents
+- [Opening the Notebook](#opening-the-notebook)
+- [Binder Notebook Basics](#binder-notebook-basics)
+  * [Home Page](#home-page)
+  * [Downloading Files](#downloading-files)
+  * [Uploading Files](#uploading-files)
+- [Using the Notebook](#using-the-notebook)
+  * [Opening The Notebook](#opening-the-notebook)
+  * [1. Import UI Elements Scripts](#1-import-ui-elements-scripts)
+  * [2. Import Files](#2-import-files)
+  * [3. Save the File Names](#3-save-the-file-names)
+  * [4. Identify Sample IDs](#4-identify-sample-ids)
+  * [5. Selecting Exploratory Variables](#5-selecting-exploratory-variables)
+  * [6. Save Information from GUI Elements](#6-save-information-from-gui-elements)
+  * [7. Outputting Information to .csv File](#7-outputting-information-to-csv-file)
+  * [8. Generating Exploratory Figures](#8-generating-exploratory-figures)
+  * [9. Interactive Plots](#9-interactive-plots)
+  * [10. View Additional Generated Plots](#10-view-additional-generated-plots)
+- [FAQ](#faq)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 # Opening the Notebook
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TheNoyesLab/NoyesLab_R_analysis_Jupyter_notebook/HEAD)
 The button above will take you directly to the Binder page where this notebook is hosted. Upon clicking the link, you will see the following page: 
@@ -66,12 +89,14 @@ Once you have finished adding your data files in the dropdown in the previous st
 
 If the names of the files in this output do not match up to what you expect to see, try rerunning the notebook again from the beginning using the circle icon in the top toolbar: <img width="26" alt="image" src="https://user-images.githubusercontent.com/61216360/114312643-eaddda80-9ab8-11eb-9a4f-a28e669575b9.png">
 
-## 4. Identify Sample IDs (this section needs improvement)
+## 4. Identify Sample IDs
+**This section needs improvement**
 In order for the script to properly identify the different samples that are present in your data, you must tell the notebook where to find this information within your files. Here, we ask you to point the notebook to the column in your metadata file that contains those sample IDs. For example, when looking at the test data, the file “test_AMR_metadata.csv” has its sample IDs within the column named “sample”.
 
 In this section, we first give you the option to view the head of all the different .csv files that have been uploaded (hence why the dropdown is not as long as the one from section 2). After selecting a file, type the column name containing your sample IDs in the text box. 
 
-## 5. Selecting Exploratory Variables (This section isn't complete, Need to add much more to this)
+## 5. Selecting Exploratory Variables
+**This section isn't complete, Need to add much more to this**
 In this section, you will now define the type of analysis that you’d like to perform. Here, you can specify which variables to compare, which order to put them in, name the analysis, and create multiple different instances of them. This will use the metadata file that you selected earlier in the script in section 4 when selecting sample IDs. 
 
 If we continue the example from earlier using the same “test_AMR_metadata.csv” file, 
@@ -98,15 +123,16 @@ Errors in this step can be the result of a lot of different possible causes, inc
 
 Of note, I am currently testing the use of .RData files as another means to save the notebook session for future use. The staging script saves a “GUI_Workspace.RData” file once run, which can be loaded in the next time you use this notebook to save time in running the staging script every time you wanted to see the results. The code block to load in this .RData file is currently commented out, so you’ll have to remove the “#” character if you chose to use it. I’m purposely not going into much details about it yet, but I plan on fleshing out this document more in the future to include better instructions for how to use it.  
 
-## 9. Interactive Plots (This section is not finished)
+## 9. Interactive Plots
+**This section is not yet finished**
 Here, we will finally begin plotting the results. 
 
 ## 10. View Additional Generated Plots
-
+**I haven't started writing this section** 
 
 # FAQ
 This code block isn't working as expected/is buggy, what should I do? 
-- The first and most common fix is to rerun the whole notebook again and refresh the environment. One easy way to do this is to press the circle icon in the top toolbar [INSERT PICTURE HERE], which will reset all of the variables. Keep in mind that this means you’ll need to rerun the **Import UI Elements** Script box again as well. 
+- The first and most common fix is to rerun the whole notebook again and refresh the environment. One easy way to do this is to press the circle icon in the top toolbar **[INSERT PICTURE HERE]**, which will reset all of the variables. Keep in mind that this means you’ll need to rerun the **Import UI Elements** Script box again as well. 
 
 
 
