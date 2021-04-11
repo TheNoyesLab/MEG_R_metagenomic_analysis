@@ -91,12 +91,14 @@ If the names of the files in this output do not match up to what you expect to s
 
 ## 4. Identify Sample IDs
 **This section needs improvement**
+
 In order for the script to properly identify the different samples that are present in your data, you must tell the notebook where to find this information within your files. Here, we ask you to point the notebook to the column in your metadata file that contains those sample IDs. For example, when looking at the test data, the file “test_AMR_metadata.csv” has its sample IDs within the column named “sample”.
 
 In this section, we first give you the option to view the head of all the different .csv files that have been uploaded (hence why the dropdown is not as long as the one from section 2). After selecting a file, type the column name containing your sample IDs in the text box. 
 
 ## 5. Selecting Exploratory Variables
 **This section isn't complete, Need to add much more to this**
+
 In this section, you will now define the type of analysis that you’d like to perform. Here, you can specify which variables to compare, which order to put them in, name the analysis, and create multiple different instances of them. This will use the metadata file that you selected earlier in the script in section 4 when selecting sample IDs. 
 
 If we continue the example from earlier using the same “test_AMR_metadata.csv” file, 
